@@ -37,10 +37,11 @@
 					
 
 					<span class="login100-form-title p-b-34 p-t-27">
-						Log in
+						Welcome to Prodevans
+						             
 					</span>
 
-					<div class="wrap-input100 validate-input" data-validate = "Enter Username">
+				<!--	<div class="wrap-input100 validate-input" data-validate = "Enter Username">
 						<input id="uname" class="input100" type="text" name="uname" placeholder="Username" required>
 						<span class="focus-input100" data-placeholder="&#xf207;"></span>
 					</div>
@@ -66,7 +67,7 @@
 						</button>
 					</div>
 					
-					
+				-->	
 				</form>
 			</div>
 		</div>
