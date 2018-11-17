@@ -61,7 +61,7 @@
 							Login
 						</button>
 						&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-						<button class="login100-form-btn">
+						<button id="bt2" class="login100-form-btn">
 							 <a href="reg.jsp">SIGN UP </a>
 						</button>
 					</div>
