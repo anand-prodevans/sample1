@@ -71,7 +71,7 @@
 							
 						</button>
 					&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-					<button class="login100-form-btn">
+					<button id="bt3" class="login100-form-btn">
 						<a href="index.jsp">Login Here</a>
 					</button>
 					
