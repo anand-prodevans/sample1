@@ -40,18 +40,18 @@
 						Log in
 					</span>
 
-					<div class="wrap-input100 validate-input" data-validate = "Enter username">
+					<div class="wrap-input100 validate-input" data-validate = "Enter Username">
 						<input id="uname" class="input100" type="text" name="uname" placeholder="Username" required>
 						<span class="focus-input100" data-placeholder="&#xf207;"></span>
 					</div>
 
-					<div class="wrap-input100 validate-input" data-validate="Enter password">
+					<div class="wrap-input100 validate-input" data-validate="Enter Password">
 						<input id="pass" class="input100" type="password" name="pass" placeholder="Password" required>
 						<span class="focus-input100" data-placeholder="&#xf191;"></span>
 					</div>
 
 					<div class="contact100-form-checkbox">
-						<input class="input-checkbox100" id="ckb1" type="checkbox" name="remember-me">
+						<input class="input-checkbox100" id="ckb1" type="checkbox" name="Remember-me">
 						<label class="label-checkbox100" for="ckb1">
 							Remember me
 						</label>
