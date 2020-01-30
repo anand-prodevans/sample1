@@ -39,6 +39,7 @@ pipeline {
     stage('Remove Unused docker image') {
       steps{
         sh "docker rmi $registry:$BUILD_NUMBER"
+	sh "oc login --token=AApdA0wwx140SIYaKBjlXVegU9317THJZRe2S0BOjn8 --server=https://api.ocp4.sandbox216.opentlc.com:6443"      
       }
     }
   }
