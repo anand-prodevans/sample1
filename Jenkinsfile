@@ -1,6 +1,6 @@
 pipeline {
   environment {
-    registry = "anandarg/devops-java"
+    registry = "anandarg/httpd"
     registryCredential = "dockerhub"
   }
   agent any
